@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Patrick Corbett		patrick@nowhereatall.com	@pcorbett
 
 # THANKS
 
