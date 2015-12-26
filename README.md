@@ -13,3 +13,5 @@ Sample website with plenty of files for demos using git
 ##Deployment
 
 The project can be deployed on any web server or local file system
+
+Copyright 2015 - Git.Training
