@@ -8,6 +8,8 @@ This is an example project to show the different parts of Git and various comman
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos using git
 
 ##Deployment
+
+The project can be deployed on any web server or local file system
