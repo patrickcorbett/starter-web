@@ -19,4 +19,4 @@ The project can be deployed on any web server or local file system
 
 Please fork this repository and then issue pull request for review
 
-Copyright 2015 - Git.Training
+Copyright 2015 - Git.Training All Rights Reserved
